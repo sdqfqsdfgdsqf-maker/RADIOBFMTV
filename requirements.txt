@@ -1,0 +1,3 @@
+pymumble_py3
+youtube_dl
+ffmpeg-python
